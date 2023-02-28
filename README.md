@@ -22,7 +22,7 @@ The interdisciplinary projects are ones I completed to understand the value prop
 
 - :zap: An avid applied mathematics, computer science, and quant finance practitioner.
 - :computer: I’m addicted to learning and growing every day with curiosity and determination.
-- :earth_americas: I'm sharing a little bit of my knowledge through blogs on [personal website](yimingdai.net).
+- :earth_americas: I'm sharing a little bit of my knowledge through blogs on [personal website](https://www.yimingdai.net).
 - :mailbox: Kindly familiarize yourself with my profile and connect on [LinkedIn](https://www.linkedin.com/in/yimingdai/).
 
 [![Yiming's github stats](https://github-readme-stats.vercel.app/api?username=dai-yiming&count_private=true&show_icons=true&theme=blueberry&hide_rank=false&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
